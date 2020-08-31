@@ -1,2 +1,2 @@
 # Lab1
- First repository
+ First repository containing an assignment that was completed last year in 2019
